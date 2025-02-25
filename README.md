@@ -81,9 +81,6 @@
 - `Sales Data.csv` → The dataset used for Tableau visualizations.  
 
 ### **2️⃣ Tableau Files (`dashboard/`)**  
-- `Sales.twbx` → Packaged Tableau Workbook with all data & visualizations.  
- 
-### **5️⃣ Documentation (`docs/`)**  
-- `project_report.pdf` → Detailed report on the project.  
+- `Sales.twbx` → Packaged Tableau Workbook with all data & visualizations.   
 
 ---
